@@ -10,7 +10,7 @@ Wagtail is an open source content management system built on Django, with a stro
 
 ### Features
 
-* A fast, attractive interface for authors
+* A fast and attractive interface for authors
 * Complete control over front-end design and structure
 * Scales to millions of pages and thousands of editors
 * Fast out of the box, cache-friendly when you need it
